@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vedanshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vedanshi Pathak</h1>
+<h3> align="center">Student at Rajiv Gandhi Institute of Petroleum Technology.</h3>
+<h3>Passionate about frontend and machine learning development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanshipathak&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshipathak" /> </p>
 
