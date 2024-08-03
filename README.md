@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://vedanshipathak.io)
+[![MasterHead](https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://vedanshipathak.io)
 <h1 align="center">Hi 👋, I'm Vedanshi Pathak</h1>
 <h3> Student at Rajiv Gandhi Institute of Petroleum Technology.</h3>
 <h3>Passionate about frontend and machine learning development</h3>
