@@ -1,9 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/aa9557de6bb009b4805f61f8a5861882dc6593d297ad0d13243028f309d25259/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)](https://vedanshipathak.io)
+
 <h1 align="center">Hi 👋, I'm Vedanshi Pathak</h1>
 <h3> Student at Rajiv Gandhi Institute of Petroleum Technology.</h3>
 <h3>Good Knowledge about frontend and machine learning development</h3>
 <h3>Currently working on Deep Learning.</h3>
-<img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+<img align="right" alt="coding" width=400 src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNzk4MDksIm5iZiI6MTcyNjA3OTUwOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDE4MzE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNjY2NjMxOWVjOWE5OGY2OTkxMjUzOWFkZDE2NjMxNmZlMTEzNWQxZDFkYjY4ZWMzMGIwYmFkYmQxYTFlZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.td9KRd3TPK8ZBZkeeLFOoOoM41_3MQFYFA_SHTsT1n0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanshipathak&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshipathak" /> </p>
 
 - 💬 Ask me about **Coding,MERN,Machine Learning**
