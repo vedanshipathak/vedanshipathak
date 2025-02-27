@@ -74,17 +74,14 @@
 <br>
 
 ## Github stats:
-<div align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
-</div>
+
 <div align="center">
   <br>
 <a href="https://github.com/vedanshipathak/github-readme-stats"><img alt="vedanshipathak Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedanshipathak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/vedanshipathak/github-readme-stats"><img alt="vedanshipathak Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshipathak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-<a href="https://github.com/jahnvisahni31">
-  <img alt="jahnvisahni31's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark" />
+<a href="https://github.com/vedanshipathak">
+  <img alt="vedanshipathak's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vedanshipathak&theme=react-dark" />
 </a>
 </div>
 
