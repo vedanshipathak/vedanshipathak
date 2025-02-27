@@ -36,7 +36,7 @@
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
-<a href="https://www.linkedin.com/in/vedanshipathak/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vedanshipathak/"  /></a>
+<a href="https://www.linkedin.com/in/vedanshi-pathak-057261257/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vedanshipathak/"  /></a>
 <a href="https://leetcode.com/u/vedanshipathak226/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vedanshipathak226" /></a>
 <a href="https://www.geeksforgeeks.org/user/vedanshipn0hy/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="vedanshipn0hy" /></a>
 <br>
