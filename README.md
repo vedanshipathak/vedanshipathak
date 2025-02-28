@@ -46,6 +46,7 @@
 ### Full Stack Development
 | Project | Description | Tech Stack |
 |---------|------------|------------|
+| [Mindful-Mental Health Website](https://github.com/vedanshipathak/Mindful-Website) | Full stack application along integrated chatbot using NLP dealing with all mental health related support | MongoDB, React, Node, Express, Tailwind, NLP |
 | [Travel Advisor Application](https://github.com/vedanshipathak/TravelApp) | Full stack application for Travel,Bookings,Destinations | MongoDB, React, Node, Express |
 
 
