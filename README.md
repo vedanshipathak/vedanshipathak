@@ -54,6 +54,7 @@
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Mental Health Support Chatbot](https://github.com/vedanshipathak/Mental-Health-Support-Chatbot) | AI chatbot to help with Mental Health related problems | NLP, Hugging Face, Python,Tensorflow |
+| [Grammar Checker Engine](https://github.com/vedanshipathak/Grammar-Checker-Engine) | Grammar Check Engine using Voice samples | XGBRegressor,Librosa, Python,Tensorflow |
 | [Plant Disease Detection Model](https://github.com/vedanshipathak/plant-model) | CNN Model for different plant disease detection | CNN,Deep Learning,Python,Tensorflow,OpenCV|
 | [Diabetes Prediction](https://github.com/vedanshipathak/Diabetes-Prediction-ML) | ML model for predicting Diabetes| Machine Learning, SVM, Python |
 | [Weather Data Analysis](https://github.com/vedanshipathak/Weather-Data-Analysis) |Analysis of Weather Data using Data Handling & Visualization| Python|
