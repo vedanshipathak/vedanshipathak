@@ -20,7 +20,7 @@
   Education:
     degree: "BTech in Computer Science & Design Engineeering"
     university: "Rajiv Gandhi Institute of Petroleum Technology"
-    CGPA: "8.61/10"
+    CGPA: "8.7/10"
   Past_Experiences:
     - role: "Open Source Contributor", "Girlscript Summer of Code"
   Coding achievements:
